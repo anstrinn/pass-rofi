@@ -1,11 +1,11 @@
-<img src="https://git.disroot.org/janpstrunn/images/raw/branch/main/pass.png" align="right" height="100"/>
+<img src="https://git.disroot.org/anstrinn/images/raw/branch/main/pass.png" align="right" height="100"/>
 <br>
 
 # pass-rofi: Orchestrate your Passwords
 
-`pass-rofi` is an efficient `rofi` script designed to complement [pass](https://github.com/janpstrunn/pass), which aims to replace the [passwordstore](https://www.passwordstore.org/) while maintaining its core principles. This tool integrates the functionalities of `pass`, `pass-otp`, and `pass-tomb` within `rofi`, enabling you to access your passwords swiftly and effortlessly.
+`pass-rofi` is an efficient `rofi` script designed to complement [pass](https://github.com/anstrinn/pass), which aims to replace the [passwordstore](https://www.passwordstore.org/) while maintaining its core principles. This tool integrates the functionalities of `pass`, `pass-otp`, and `pass-tomb` within `rofi`, enabling you to access your passwords swiftly and effortlessly.
 
-<div align="center"><a href="https://github.com/janpstrunn/elegantvagrant/tree/main/rofi">
+<div align="center"><a href="https://github.com/anstrinn/elegantvagrant/tree/main/rofi">
   <img src="./assets/pass-rofi.png" alt="pass-rofi image">
   <p>pass-rofi with Elegant Vagrant Theme</p>
 </a>
@@ -21,9 +21,9 @@
 
 ## Requirements
 
-- [pass](https://github.com/janpstrunn/pass)
-- [pass-otp](https://github.com/janpstrunn/pass-otp)
-- [pass-tomb](https://github.com/janpstrunn/pass-tomb)
+- [pass](https://github.com/anstrinn/pass)
+- [pass-otp](https://github.com/anstrinn/pass-otp)
+- [pass-tomb](https://github.com/anstrinn/pass-tomb)
 - `rofi`
 
 ## Installation
@@ -31,7 +31,7 @@
 Get started with a simple command:
 
 ```bash
-curl -sSL https://github.com/janpstrunn/pass-rofi/raw/main/install.sh | bash
+curl -sSL https://github.com/anstrinn/pass-rofi/raw/main/install.sh | bash
 ```
 
 ## Usage
@@ -63,7 +63,7 @@ Examples:
 ```
 
 > [!IMPORTANT]
-> First-time users must set up [pass](https://github.com/janpstrunn/pass) before using `pass-rofi`.
+> First-time users must set up [pass](https://github.com/anstrinn/pass) before using `pass-rofi`.
 
 ## Notes
 

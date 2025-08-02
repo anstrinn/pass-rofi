@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 echo "Cloning repository"
-git clone https://github.com/janpstrunn/pass-rofi
+git clone https://github.com/anstrinn/pass-rofi
 cd pass-rofi
 
 # Install the main script
